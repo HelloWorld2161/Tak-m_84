@@ -63,8 +63,8 @@ Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda
 
 # SPRİNT 3 
 
-- Sprint Notları: Bazı aksaklıklardan dolayı oyun değiştirilmek zorunda kalındı ve yeni bir oyuna başlandı.
-- Daily Scrum: Herkes elinden geldiğince uğraşıp oyunu olabildiğince eğlenceli hale getirmeye çalıştı.
+- Sprint Notları: Son scriptte proje üzerinde sadece iki kişi çalıştığımız için proje yetişmedi ve onun yerine daha basit farklı bir oyun yapıldı. Oyunun bütün mekanikleri eklenemese de oynanış kısmı elden geldiğince eğlenceli hale getirildi.
+- Daily Scrum: Bu aksaklıklar ve iyi yönetilememiş zamana rağmen oyun olabildiğince tamamlanmaya çalışıldı.
 
 # Gelinen Noktaya Dair Ekran Görüntüleri:
 ![WhatsApp Görsel 2024-08-02 saat 22 53 25_602c8958](https://github.com/user-attachments/assets/48a0cdb3-9995-4799-9cae-abd65be103db)
@@ -73,7 +73,7 @@ Oyun boyunca arabamızla zorlu yollarda ilerlemeye çalıştığımız bu oyunda
 
 # Sprint Review: 
 - Yeni oyunun mekaniği ve oynanışı üzerine karar verildi. Hızlıca eksikler kapatılmaya çalışıldı.
-- Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak, Fatma Bilge Karakoç, Fidan Cindoğlu
+- Sprint Review Katılımcıları: Hamit Aydoğdu, Harun Sak
 
 # Sprint Retrospective:
 - Sonraki projelerde zaman yönetimini daha iyi yapmamız gerektiği konuşuldu ve eksiklerimiz üzerine özeleştiri yapıldı.
